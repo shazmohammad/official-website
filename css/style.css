@@ -197,9 +197,9 @@ h1, h2, h3, h4, h5, h6, figure {
     font-size: 14px;
   }
 }
-.profile-thumb{
+/* .profile-thumb{
   background-image:url(images/user-3.jpg);
-}
+} */
 #fh5co-header .display-tc .profile-thumb,
 .fh5co-cover .display-tc .profile-thumb {
   background-size: cover !important;
